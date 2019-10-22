@@ -63,5 +63,5 @@ def all_codes(number):
 def get_alphabet(number):
     return chr(number + 96)
 
-a = 123
-all_codes(a)
+a = 1544
+print(all_codes(a))
