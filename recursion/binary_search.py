@@ -1,3 +1,4 @@
+# binary search is the quickest at most time
 def binary_search(arr, target):
     return binary_search_func(arr, 0, len(arr) - 1, target)
 
